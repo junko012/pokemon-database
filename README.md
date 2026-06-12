@@ -43,7 +43,7 @@ pokemon.db
 Database Size:
 
 ```text
-~52 MB
+~46 MB
 ```
 
 ---
